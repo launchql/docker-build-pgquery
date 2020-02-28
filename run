@@ -1,0 +1,7 @@
+#!/bin/bash
+
+docker run -d \
+  -it \
+  --name build_pg_query \
+  --mount type=bind,source="$(pwd)"/libpg_query,target=/pg_query \
+  pyramation/libpg_query
