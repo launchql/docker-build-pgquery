@@ -1,6 +1,6 @@
 # instructions
 
-This is for building files required for https://github.com/pyramation/node-pg-query-native which is a dependancy for https://github.com/pyramation/pg-query-parser
+This is for building files required for https://github.com/launchql/node-pg-query-native which is a dependancy for https://github.com/launchql/pg-query-parser
 
 ## 1
 
@@ -28,5 +28,5 @@ for example of what happens, check this
 
 libpg_query/linux/libpg_query.a
 
-https://github.com/pyramation/node-pg-query-native/commit/cff633ea55effb719c59b726bc1c6e838bd7c511
+https://github.com/launchql/node-pg-query-native/commit/cff633ea55effb719c59b726bc1c6e838bd7c511
 
